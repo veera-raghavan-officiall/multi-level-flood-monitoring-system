@@ -3,6 +3,8 @@
 ## Overview
 This project simulates a flood monitoring system using Arduino in Tinkercad. It detects water level conditions and categorizes them into safe, warning, and critical stages.
 
+*Tinkercad Link:* [Flood Monitoring System](https://www.tinkercad.com/things/17E7EzdfYUm/editel)
+
 ## Components (Simulated)
 - Arduino UNO
 - Ultrasonic Sensor
